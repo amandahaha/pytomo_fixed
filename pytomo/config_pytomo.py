@@ -49,7 +49,7 @@ LOOP = False
 
 # take related links
 #RELATED = True
-RELATED = False
+RELATED = True
 
 # Image file to save the graphs
 PLOT = False
@@ -88,7 +88,7 @@ STD_HEADERS = {
 ################################################################################
 # for start_pytomo.py
 
-STATIC_URL_LIST = []
+STATIC_URL_LIST = ['https://www.youtube.com/watch?v=X3X9m3AjBIU&list=PLGimesz87ZkWKR6XrGXTkpsdncsuvijZz&index=10&t=0s']
 INPUT_FILE = None
 
 # Max number of rounds to perform
