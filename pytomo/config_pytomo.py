@@ -49,7 +49,7 @@ LOOP = False
 
 # take related links
 #RELATED = True
-RELATED = True
+RELATED = False
 
 # Image file to save the graphs
 PLOT = False
@@ -88,7 +88,7 @@ STD_HEADERS = {
 ################################################################################
 # for start_pytomo.py
 
-STATIC_URL_LIST = ['https://www.youtube.com/watch?v=moyV8-g-SwM','https://www.youtube.com/watch?v=hYvAi203u6U','https://www.youtube.com/watch?v=moyV8-g-SwM','http://www.youtube.com/watch?v=1AqvUskEolU','https://www.youtube.com/watch?v=hYvAi203u6U','https://www.youtube.com/watch?v=8RTyyJyHg0w','http://www.youtube.com/watch?v=M1M-X3sflq8','http://www.youtube.com/watch?v=xg1Gs2eS6WE','https://www.youtube.com/watch?v=yaPF2dTbj_Q&list=PLGimesz87ZkWKR6XrGXTkpsdncsuvijZz&index=2&t=0s','https://www.youtube.com/watch?v=qvyjdDjxeSE','http://www.youtube.com/watch?v=yaPF2dTbj_Q','https://www.youtube.com/watch?v=nga357Le_iY&t=659s','https://www.youtube.com/watch?v=Al_HnN-34GY&list=RDAl_HnN-34GY','https://www.youtube.com/watch?v=4Ieu3J94nVs','https://www.youtube.com/watch?v=lGbIZJBtHf0','https://www.youtube.com/watch?v=2mrs5Qz7cTU&t=5s']
+STATIC_URL_LIST = ['https://www.youtube.com/watch?v=0j5TNwgaKCc','https://www.youtube.com/watch?v=3O1_3zBUKM8','https://www.youtube.com/watch?v=VJYgeYntJfk','https://www.youtube.com/watch?v=L0pQVnLIDig','https://www.youtube.com/watch?v=moyV8-g-SwM','https://www.youtube.com/watch?v=hYvAi203u6U','https://www.youtube.com/watch?v=moyV8-g-SwM','http://www.youtube.com/watch?v=1AqvUskEolU','https://www.youtube.com/watch?v=hYvAi203u6U','https://www.youtube.com/watch?v=8RTyyJyHg0w','http://www.youtube.com/watch?v=M1M-X3sflq8','http://www.youtube.com/watch?v=xg1Gs2eS6WE','https://www.youtube.com/watch?v=yaPF2dTbj_Q&list=PLGimesz87ZkWKR6XrGXTkpsdncsuvijZz&index=2&t=0s','https://www.youtube.com/watch?v=qvyjdDjxeSE','http://www.youtube.com/watch?v=yaPF2dTbj_Q','https://www.youtube.com/watch?v=nga357Le_iY&t=659s','https://www.youtube.com/watch?v=Al_HnN-34GY&list=RDAl_HnN-34GY','https://www.youtube.com/watch?v=4Ieu3J94nVs','https://www.youtube.com/watch?v=lGbIZJBtHf0','https://www.youtube.com/watch?v=2mrs5Qz7cTU&t=5s']
 INPUT_FILE = None
 
 # Max number of rounds to perform
